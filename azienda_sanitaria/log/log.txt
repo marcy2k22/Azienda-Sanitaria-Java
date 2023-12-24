@@ -1,0 +1,6 @@
+ADMIN1-admin1@aziendasanitaria.gov
+ADMIN2-admin2@aziendasanitaria.gov
+ADMIN3-admin3@aziendasanitaria.gov
+ADMIN4-admin4@aziendasanitaria.gov
+0000-alessandra@aziendasanitaria.gov
+0001-mario@aziendasanitaria.gov
